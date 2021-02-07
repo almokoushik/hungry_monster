@@ -1,0 +1,31 @@
+#searcharea{
+    margin:5% 40%;
+}
+.foodItem img{
+    width:100%;
+    height:75%;
+    border-radius: 20px;
+}
+#itemarea{
+    margin:2% 10%;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+
+}
+.foodItem{
+        background-color:#BBBBBB;
+        border-radius:20px;
+        height:270px;
+        margin: 10px;
+
+}
+.foodItem h5{
+        text-align: center;
+        
+
+}
+        /* subDiv.style.borderRadius="20px"
+        subDiv.style. */
+#item-detail-area img{
+    height:270px;
+}
